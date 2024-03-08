@@ -89,6 +89,7 @@
                 &-icon {
                     width: 27px;
                     height: 28px;
+                    fill: v.$color_white;
                     @extend %hover-black-icon;
                 }
             }
