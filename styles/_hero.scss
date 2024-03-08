@@ -154,6 +154,7 @@
             }
 
             &-content {
+                width: 100%;
                 padding: 10px 10px 10px 100px;
                 @include m.font(10px, 400, v.$color_black);
             }
